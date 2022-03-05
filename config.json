@@ -1,22 +1,21 @@
 {
-  "Mockups": [
-    {
-      "height": 1024,
-      "compressed_path": "./photos/Mockups/photoframe.min.png",
-      "width": 1440,
-      "compressed": true,
-      "placeholder_path": "./photos/Mockups/photoframe.placeholder.png",
-      "path": "./photos/Mockups/photoframe.png"
-    }
-  ],
+  "Mockups": [],
   "Photos": [
     {
-      "height": 4472,
-      "compressed_path": "./photos/Photos/DSCF0989(1).min.jpg",
-      "width": 3578,
+      "width": 1600,
+      "height": 1065,
+      "path": "./photos/Photos/IMG_001140.jpg",
+      "compressed_path": "./photos/Photos/IMG_001140.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Photos/DSCF0989(1).placeholder.jpg",
-      "path": "./photos/Photos/DSCF0989(1).jpg"
+      "placeholder_path": "./photos/Photos/IMG_001140.placeholder.jpg"
+    },
+    {
+      "width": 1600,
+      "height": 1065,
+      "path": "./photos/Photos/IMG_001144.jpg",
+      "compressed_path": "./photos/Photos/IMG_001144.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Photos/IMG_001144.placeholder.jpg"
     }
   ]
 }
